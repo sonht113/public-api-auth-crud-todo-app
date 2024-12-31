@@ -16,7 +16,7 @@ import { User } from './user/entities/user.entity';
     }),
     TypeOrmModule.forRoot({
       type: 'mongodb',
-      url: process.env.DB_URL,
+      url: 'mongodb+srv://hotrongson:publicapi123@cluster0.fek7b.mongodb.net/todo-app?retryWrites=true&w=majority',
       synchronize: true,
       entities: [Todo, User],
     }),
