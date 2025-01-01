@@ -8,7 +8,7 @@ You can access this API for free, just in case you need a CRUD API when you curr
 👉 You'all can access the API URL on:
 </span>
 <p style="font-size: 15px; font-weight: bold">
-[https://public-api-crud-todo-app.vercel.app/todos](https://public-api-crud-todo-app.vercel.app/todos)
+[End point api test in postman]([https://public-api-crud-todo-app.vercel.app/todos](https://public-api-auth-crud-todo-app-production.up.railway.app/api/v1/auth/register))
 </p>
 
 
