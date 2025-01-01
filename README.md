@@ -1,4 +1,5 @@
 # Public api Auth - CRUD for Todo app basic
+
 <p style="font-size: 15px">
 This just a simple TODO API with AUTH, GET, POST, PUT and DELETE endpoints for user and todo. I made this with Mongoose.
 You can access this API for free, just in case you need a CRUD API when you currently learning a Front-End
@@ -8,16 +9,19 @@ You can access this API for free, just in case you need a CRUD API when you curr
 👉 You'all can access the API URL on:
 </span>
 <p style="font-size: 15px; font-weight: bold">
-End point api test in postman: ```https://public-api-auth-crud-todo-app-production.up.railway.app/api/v1/auth/register```
+End point api test in postman:
 </p>
 
+```shell
+https://public-api-auth-crud-todo-app-production.up.railway.app/api/v1/auth/register
+```
 
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 [MongoDB](https://www.mongodb.com/) DB manager
 
-### This an example how you accessing the API and the responses you will got:
+### This an example how you accessing the API and the responses you will got
 
 **#REGISTER**
 ![image](./public/register.png)
