@@ -13,7 +13,7 @@ End point api test in postman:
 </p>
 
 ```shell
-https://public-api-auth-crud-todo-app-production.up.railway.app/api/v1/auth/register
+https://public-api-auth-crud-todo-app.onrender.com/api/v1/auth/register
 ```
 
 ## Description
